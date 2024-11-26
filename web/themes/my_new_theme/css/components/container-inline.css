@@ -3,6 +3,11 @@
  * Inline items.
  */
 
+.block {
+  display: flex;
+  justify-content: center;
+}
+
 .container-inline label::after,
 .container-inline .label::after {
   content: ":";
