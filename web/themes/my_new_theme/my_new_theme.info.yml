@@ -1,8 +1,9 @@
 name: my_new_theme
 type: theme
-'base theme': stable9
+"base theme": stable9
 version: 1.0.0
 libraries:
+  - my_new_theme/global-styling
   - my_new_theme/base
   - my_new_theme/messages
   - core/normalize
@@ -17,6 +18,6 @@ libraries-extend:
     - my_new_theme/file
   core/drupal.progress:
     - my_new_theme/progress
-description: ''
+description: ""
 core_version_requirement: ^11
-generator: 'starterkit_theme:11.0.9'
+generator: "starterkit_theme:11.0.9"

@@ -1,3 +1,7 @@
+global-styling:
+  css:
+    theme:
+      css/style.css: {}
 base:
   version: VERSION
   css:
