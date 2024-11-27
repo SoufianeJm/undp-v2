@@ -2,13 +2,7 @@
  * @file
  * Inline items.
  */
-
-.block {
-  display: flex;
-  justify-content: center;
-  background-color: red;
-}
-
+ 
 .container-inline label::after,
 .container-inline .label::after {
   content: ":";
