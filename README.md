@@ -1,0 +1,1 @@
+I created this project as part of my application for the Web Development Intern position at UNDP. The idea was to turn the internship description into a live website. I used Drupal CMS to build the site, Docker for containerization, and Heroku for deployment for this project. I also set up CI/CD pipelines to automate everything.
